@@ -1,4 +1,4 @@
-# memory-game-js
+# Memory Game
 <h2>What is it?</h2>
 <p>It is a simple memory card game where you have to click, guess and remember the card items.</p>
 <h2>Tech Stack</h2>
